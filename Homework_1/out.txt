@@ -1,0 +1,6 @@
+12
+31
+34
+12
+53
+The 5 integers entered in this file sum to 142
